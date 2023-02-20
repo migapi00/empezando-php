@@ -25,3 +25,5 @@ $numero_entero = (int) $numero;
 echo $numero_entero; 
 
 var_dump($numero_entero);
+
+?>php 
